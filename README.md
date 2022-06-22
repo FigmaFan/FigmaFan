@@ -1,4 +1,4 @@
-[![MasterHead](https://servreality.com/wp-content/uploads/2020/07/C-Development-Banner.jpg)]
+![MasterHead](https://servreality.com/wp-content/uploads/2020/07/C-Development-Banner.jpg)
 <h1 align="center">Hi 👋, I'm FigmaFan</h1>
 <h3 align="center">A passionate frontend/backend developer from Germany.</h3>
 <img align="right" alt="Coding" width="400" src="https://brunocapuano.files.wordpress.com/2015/10/programing-in-c.gif">
