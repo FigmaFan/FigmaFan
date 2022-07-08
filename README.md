@@ -2,13 +2,11 @@
 <h3 align="center">A passionate frontend/backend developer from Germany.</h3>
 <img align="right" alt="Coding" width="400" src="https://brunocapuano.files.wordpress.com/2015/10/programing-in-c.gif">
 
-- 🔭 I’m currently working on **Sigma.cc**
+- 🔭 I’m currently working on **[redacted]**
 
 - 🌱 I’m currently learning **C++ & Java**
 
-- 👯 I’m looking to collaborate on **cheats (internal/external)**
-
-- 💬 Ask me about **cheats**
+- 👯 I’m looking to collaborate on **anything tbh**
 
 - ⚡ Fun Fact **I donate to Wikipedia**
 
