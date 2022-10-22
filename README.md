@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend/backend developer from Germany.</h3>
 <img align="right" alt="Coding" width="400" src="https://brunocapuano.files.wordpress.com/2015/10/programing-in-c.gif">
 
-- 🔭 I’m currently working on **BTA Kernel Driver**
+- 🔭 I’m currently working on **Tacillo's Loader**
 
-- 🌱 I’m currently learning **Lua**
+- 🌱 I’m currently learning **Java**
 
 - ⚡ Fun Fact: **I donate to Wikipedia**
 
