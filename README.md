@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend/backend developer from Germany.</h3>
 <img align="right" alt="Coding" width="400" src="https://brunocapuano.files.wordpress.com/2015/10/programing-in-c.gif">
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **BAD & Project VT**
 
-- 🌱 I’m currently learning **A LOT!**
+- 🌱 I’m currently learning **too much!**
 
 - ⚡ Fun Fact: **[redacted]**
 
