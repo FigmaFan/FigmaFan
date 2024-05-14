@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Project VT**
 
-- 🌱 I’m currently learning **too much!**
+- 🌱 I’m currently learning **Java**
 
 - ⚡ Fun Fact: **[redacted]**
 
