@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FigmaFan</h1>
-<h3 align="center">a passionate backend developer from Germany.</h3>
+<h3 align="center">a passionate fullstack developer from Germany.</h3>
 <img align="right" alt="Coding" width="400" src="https://brunocapuano.files.wordpress.com/2015/10/programing-in-c.gif">
 
 - 🔭 I’m currently working on **Project VT**
