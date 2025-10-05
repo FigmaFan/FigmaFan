@@ -16,21 +16,23 @@
 <hr/>
 
 ### About me
-- I ship small, sharp tools with clean UIs.
-- Focus: performance, security, developer experience.
-- C/C++ enjoyer, low-level tinkering when it matters.  
+- C/C++ enjoyer
+
 **Connect:** `Discord: tacillo`
 
 ### Tech I use
 <p>
   <img height="28" alt="C"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img height="28" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+  <img height="28" alt="TypeScript" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-plain.svg">
+  <img height="28" alt="HTML5" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-plain.svg">
+  <img height="28" alt="HTML5" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-plain.svg">
 </p>
 
 ### Highlights
-- 🧰 Favorite stack: **C/C++**, pragmatic **PHP** when needed.
-- 🧪 Tests & profiling before “optimizing”.
-- 🔐 Care about memory layout, safety and clean APIs.
+- 🧰 Favorite stack: **C/C++**
+- 🧪 Tests & profiling before “optimizing”
+- 🔐 Care about safety, efficiency and easy-to-understand code
 
 ### GitHub stats
 <p align="center">
