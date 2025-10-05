@@ -1,17 +1,44 @@
 <h1 align="center">Hi 👋, I'm FigmaFan</h1>
-<h3 align="center">a passionate fullstack developer from Germany.</h3>
-<img align="right" alt="Coding" width="400" src="https://brunocapuano.files.wordpress.com/2015/10/programing-in-c.gif">
+<p align="center">a passionate full-stack developer from Germany</p>
 
-- 🔭 I’m currently working on **Project VT**
+<p align="center">
+  <a href="https://github.com/figmafan?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/figmafan?style=flat-square&logo=github">
+  </a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=figmafan&style=flat-square">
+  <img alt="Made with C++" src="https://img.shields.io/badge/Made%20with-C%2B%2B-blue?style=flat-square">
+</p>
 
-- 🌱 I’m currently learning **Rust**
+<div align="center">
+  🚧 Building <b>Project VT</b> · 🌱 Learning <b>Rust</b> · ⚡ Fun fact: <b>[redacted]</b>
+</div>
 
-- ⚡ Fun Fact: **[redacted]**
+<hr/>
 
-<h3 align="left">Connect with me:</h3>
-Discord: tacillo
+### About me
+- I ship small, sharp tools with clean UIs.
+- Focus: performance, security, developer experience.
+- C/C++ enjoyer, low-level tinkering when it matters.  
+**Connect:** `Discord: tacillo`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+### Tech I use
+<p>
+  <img height="28" alt="C"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img height="28" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=figmafan&theme=dark&show_icons=true&count_private=true&locale=en" alt="figmafan" /></p>
+### Highlights
+- 🧰 Favorite stack: **C/C++**, pragmatic **PHP** when needed.
+- 🧪 Tests & profiling before “optimizing”.
+- 🔐 Care about memory layout, safety and clean APIs.
+
+### GitHub stats
+<p align="center">
+  <img height="160" alt="GitHub Stats"
+       src="https://github-readme-stats.vercel.app/api?username=figmafan&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_title=true&hide_border=true&cache_seconds=1800" />
+  <img height="160" alt="Top Languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=figmafan&layout=compact&langs_count=8&card_width=320&theme=dark&hide_title=true&hide_border=true&cache_seconds=1800" />
+</p>
+
+### Selected projects
+- [redacted]
