@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  🚧 Building <b>Project VT</b> · 🌱 Learning <b>Rust</b> · ⚡ Fun fact: <b>[redacted]</b>
+  🚧 Building <b>Project VT</b> · 🌱 Learning <b>TypeScript</b> · ⚡ Fun fact: <b>I love night-time urbex climbing</b>
 </div>
 
 <hr/>
