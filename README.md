@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FigmaFan</h1>
-<p align="center">Passionate full-stack developer from <redacted></p>
+<p align="center">Passionate full-stack developer from [redacted]</p>
 
 <p align="center">
   <a href="https://github.com/figmafan?tab=followers">
@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  🚧 Building <b>Project VT</b> · 🌱 Learning <b>TypeScript</b> · ⚡ Fun fact: <b>I love night-time urbex climbing</b>
+  🚧 Building <b>fire shi</b> · 🌱 Learning <b>Vibe-Coding</b> · ⚡ Fun fact: <b>I enjoy urban exploration and climbing (especially at night)</b>
 </div>
 
 <hr/>
