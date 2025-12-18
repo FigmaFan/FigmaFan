@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FigmaFan</h1>
-<p align="center">a passionate full-stack developer from Germany</p>
+<p align="center">Passionate full-stack developer from <redacted></p>
 
 <p align="center">
   <a href="https://github.com/figmafan?tab=followers">
