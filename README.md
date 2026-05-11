@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  🚧 Building <b>fire shi</b> · 🌱 Learning <b>Vibe-Coding</b> · ⚡ Fun fact: <b>I enjoy urban exploration and climbing (especially at night)</b>
+  🚧 Building <b>very cool Apps</b> · 🌱 I'm currently learning <b>Unity Engine</b> · ⚡ Fun fact: <b>I enjoy urban exploration and coding (kinda depends on the project tho)</b>
 </div>
 
 <hr/>
@@ -30,9 +30,9 @@
 </p>
 
 ### Highlights
-- 🧰 Favorite stack: **C/C++**
-- 🧪 Tests & profiling before “optimizing”
-- 🔐 Care about safety, efficiency and easy-to-understand code
+- 🧰 Favorite stack: **C++ <3**
+- 🧪 I don't debug, test or profile, I just pray and deploy on prod 👅
+- 🔐 One should always care about safety, efficiency and easy-to-understand code - tech debt sucks!
 
 ### GitHub stats
 <p align="center">
